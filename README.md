@@ -5,7 +5,7 @@
 This project evaluates robot localization using odometry based on wheel encoder data. The code estimates a robot's position and orientation (`x`, `y`, `θ`) and compares it to ground truth data from ROS2 bag files.
 
 ---
-
+![Path Plot](odom_square_right_0_path.png)
 ## Tasks
 
 ### Task 1: Odometry Calculation
