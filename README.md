@@ -29,7 +29,7 @@ This project evaluates robot localization using odometry based on wheel encoder 
 
 ## How to Run
 
-Run the script using your `.db3` ROS2 bag file:
+Run the script using your `.db3` ROS2 bag file: follow the following example
 
 ```bash
 python3 Odometry.py odom_square_right_0.db3
