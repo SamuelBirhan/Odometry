@@ -1,7 +1,7 @@
 # Mobile Robots – Laboratory 2: Odometry
 
 ## Overview
-
+The Odometry.py code was designed for use with the Pioneer 3-DX mobile robot, or similar Pioneer-series differential drive robots.
 This project evaluates robot localization using odometry based on wheel encoder data. The code estimates a robot's position and orientation (`x`, `y`, `θ`) and compares it to ground truth data from ROS2 bag files.
 
 ---
